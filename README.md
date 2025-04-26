@@ -54,7 +54,7 @@ This portfolio introduces the fundamentals of MySQL using a multi-level corporat
 
 
 
-##  Managers Table Sql
+##  Managers Table Sql Code
 ![manager_tbl](https://github.com/user-attachments/assets/2e8ecf55-d710-4b17-91d2-07193a4c5279)
 ## Managers Table Output
 ![task5code](https://github.com/user-attachments/assets/8fd14d48-f89a-4211-a036-5e1c124afd43)
