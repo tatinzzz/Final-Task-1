@@ -60,6 +60,10 @@ This portfolio introduces the fundamentals of MySQL using a multi-level corporat
 ![task5code](https://github.com/user-attachments/assets/8fd14d48-f89a-4211-a036-5e1c124afd43)
 
 
+## EER Diagram 
+![diagram 1](https://github.com/user-attachments/assets/8ca3e8f6-cb85-4cbb-ad98-4c4823f9a366)
+
+
 ## Sql Code
 ![final1](https://github.com/user-attachments/assets/163b009d-1486-4bf2-b4dc-b443e5396b17)
 ![final1 1](https://github.com/user-attachments/assets/a35a6660-3730-4351-84c8-a38a3ba2b60e)
